@@ -50,11 +50,12 @@ async function onUpdate(data, botApi, Reactions, RestrictedChats, botUsername, R
         if (data.message && (text === '/start' || text === '/start@' + botUsername)) {
             await botApi.sendMessage(chatId, startMessage.replace('UserName', content.chat.type === "private" ? content.from.first_name : content.chat.title), [
                 [
-                    { "text": "➕ Add to Channel ➕", "url": `https://t.me/${botUsername}?startchannel=botstart` },
                     { "text": "➕ Add to Group ➕", "url": `https://t.me/${botUsername}?startgroup=botstart` },
+                    { "text": "onwer", "url": "http://t.me/mrdevil12" },
                 ],
                 [
-                    { "text": "Github Source 📥", "url": "https://github.com/Malith-Rukshan/Auto-Reaction-Bot" },
+                    { "text": "Support group", "url": "https://t.me/devilbotsupport" },
+                    { "text": "Updates", "url": "https://t.me/devilbots971" },
                 ]
             ]);
         } else if (data.message && text === '/reactions') {
