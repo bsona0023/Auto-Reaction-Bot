@@ -55,7 +55,7 @@ export default {
 						{"text": "➕ Add to Group ➕", "url": `https://t.me/${botUsername}?startgroup=botstart`},
 					],
                     [
-                        {"text": "Github Source 📥", "url": "https://github.com/Malith-Rukshan/Auto-Reaction-Bot"},
+                        {"text": "Github Source 📥", "url": "https://graph.org/file/4aba7a36891acb0646775.mp4"},
                     ]
 				]
 				);
