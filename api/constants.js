@@ -7,8 +7,6 @@ Welcome to the *Auto Emoji Reaction Bot 🎉*, ready to sprinkle your conversati
 *✨ DM Magic*: Message me and receive a surprise emoji in return. Expect the unexpected and enjoy the fun!
 *🏖 Group & Channel*: Add me to your groups or channels, and I'll keep the vibe positive by reacting to messages with engaging emojis.
 
-✍️ To view the emojis I can use, simply type /reactions. To create your own auto reaction bot, head over to: [Auto-Reaction-Bot on GitHub](https://github.com/Malith-Rukshan/Auto-Reaction-Bot).
-
 Let's elevate our conversations with more energy and color! 🚀`
 export const htmlContent = `
 <!DOCTYPE html>
@@ -38,17 +36,17 @@ export const htmlContent = `
 </head>
 <body>
 
-<div class="title">Telegram Auto Reaction Bot 🎉</div>
-<img class="logo" src="https://telegra.ph/file/cb59967120c6bda64580b.jpg">
+<div class="title">Telegram Reaction Bot 🎉</div>
+<img class="logo" src="https://graph.org/file/77b801797f62925fbb265.jpg">
 
-<button class="button githubBtn" onclick="window.location='https://github.com/Malith-Rukshan/Auto-Reaction-Bot'">Open Source 🌱</button>
+<button class="button githubBtn" onclick="window.location='https://graph.org/file/4aba7a36891acb0646775.mp4'">Open Source 🌱</button>
 
 <div style="margin: 5px;">
-  <a class="github-button" href="https://github.com/Malith-Rukshan/Auto-Reaction-Bot" data-size="large" data-show-count="true">Star</a>
-  <a class="github-button" href="https://github.com/Malith-Rukshan/Auto-Reaction-Bot/fork" data-size="large" data-show-count="true">Fork</a>
+  <a class="github-button" href="https://graph.org/file/4aba7a36891acb0646775.mp4" data-size="large" data-show-count="true">Star</a>
+  <a class="github-button" href="https://graph.org/file/4aba7a36891acb0646775.mp4" data-size="large" data-show-count="true">Fork</a>
 </div>
 <div>
-  <a class="github-button" href="https://github.com/Malith-Rukshan" data-size="large">Follow @Malith-Rukshan</a>
+  <a class="github-button" href="https://graph.org/file/4aba7a36891acb0646775.mp4" data-size="large">Follow @mrdevil12</a>
 </div>
 </body>
 </html>
